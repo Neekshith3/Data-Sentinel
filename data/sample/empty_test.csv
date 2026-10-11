@@ -1,0 +1,7 @@
+customer_id,name,age,city,salary
+1,Ravi,23,Hyderabad,30000
+2,Priya,,,32000
+3,Kiran,-5,hyderabad,31000
+4,,24, ,30500
+5,Divya,27,N/A,35000
+6,Arjun,22,Hyderabad,

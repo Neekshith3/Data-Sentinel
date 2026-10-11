@@ -1,0 +1,229 @@
+order_id,firstname,lastname,email,product,quantity,price,city,state,pincode,order_date,payment_method,status
+1,Eve,Smith,,Watch,3.0,55000.0,Chennai,Karnataka,380001,2025-01-10 00:00:00.000000000,Cash on Delivery,Shipped
+2,Alice,Davis,user1@example.com,Mouse,1.0,30000.0,Hyd,Telangana,110001,2025-01-10 01:07:17.383177570,Net Banking,Pending
+3,Frank,Miller,user2@example.com,Mouse,2.0,2000.0,Delhi,Maharashtra,560001,2025-01-10 02:14:34.766355140,Net Banking,Cancelled
+4,Charlie,Johnson,user3@example.com,Tablet,3.0,2000.0,Pune,Karnataka,380001,2025-01-10 03:21:52.149532710,Cash on Delivery,Returned
+5,Eve,Davis,user4@example.com,Mouse,1.0,30000.0,Bangalore,West Bengal,500001,2025-01-10 04:29:09.532710280,,Returned
+6,Henry,Smith,user5@example.com,Laptop,2.0,55000.0,Mumbai,Karnataka,600001,2025-01-10 05:36:26.915887850,Upi,Returned
+7,Bob,Rodriguez,user6@example.com,Monitor,3.0,55000.0,Chennai,Telangana,380001,2025-01-10 06:43:44.299065420,,Pending
+8,Eve,Rodriguez,user7@example.com,Headphones,,1500.0,Bangalore,Tamil Nadu,400001,2025-01-10 07:51:01.682242990,Credit card,Cancelled
+9,Frank,Johnson,user8@example.com,Watch,1.0,55000.0,,Karnataka,380001,2025-01-10 08:58:19.065420560,Upi,Shipped
+10,Charlie,Miller,user9@example.com,Monitor,1.0,30000.0,Delhi,Gujarat,,2025-01-10 10:05:36.448598130,UPI,Shipped
+11,Alice,Martinez,user10@example.com,Camera,1.0,2000.0,,Karnataka,600001,2025-01-10 11:12:53.831775700,Credit Card,Pending
+12,Frank,Williams,user11@example.com,Phone,2.0,1500.0,Ahmedabad,West Bengal,400001,2025-01-10 12:20:11.214953271,Upi,Returned
+13,Frank,Miller,user12@example.com,Laptop,1.0,1500.0,,West Bengal,560001,2025-01-10 13:27:28.598130841,,Delivered
+14,Bob,Martinez,,Watch,3.0,2000.0,Ahmedabad,Maharashtra,560001,2025-01-10 14:34:45.981308411,Credit Card,Pending
+15,Diana,Rodriguez,user14@example.com,Monitor,3.0,55000.0,Bangalore,West Bengal,380001,2025-01-10 15:42:03.364485981,Credit card,Pending
+16,Charlie,Brown,,Phone,1.0,2000.0,Delhi,Delhi,400001,2025-01-10 16:49:20.747663551,Cash on Delivery,Cancelled
+17,Jane,Smith,,Tablet,1.0,55000.0,Delhi,Telangana,400001,2025-01-10 17:56:38.130841121,Credit Card,Shipped
+18,Frank,Johnson,user17@example.com,Laptop,3.0,2000.0,,Telangana,,2025-01-10 19:03:55.514018691,Cash on Delivery,Pending
+19,Diana,Smith,user18@example.com,Laptop,,30000.0,Kolkata,Tamil Nadu,500001,2025-01-10 20:11:12.897196261,Credit card,Pending
+20,Jane,Jones,,Tablet,1.0,55000.0,Hyd,Tamil Nadu,560001,2025-01-10 21:18:30.280373831,UPI,Returned
+21,Charlie,Jones,user20@example.com,Headphones,1.0,30000.0,Kolkata,Telangana,600001,2025-01-10 22:25:47.663551401,Credit card,Returned
+22,John,Miller,user21@example.com,Tablet,,1500.0,Kolkata,Gujarat,110001,2025-01-10 23:33:05.046728971,,Delivered
+23,Henry,Rodriguez,,Laptop,1.0,2000.0,,Tamil Nadu,560001,2025-01-11 00:40:22.429906542,Cash on Delivery,Cancelled
+24,Diana,Rodriguez,user23@example.com,Laptop,,,Hyd,Maharashtra, ,2025-01-11 01:47:39.813084112,Net Banking,Delivered
+25,Grace,Williams,user24@example.com,Monitor,3.0,1500.0,Bang,West Bengal,560001,2025-01-11 02:54:57.196261682,Upi,Returned
+26,John,Williams,user25@example.com,Mouse,1.0,1500.0,Hyderabad,Telangana,500001,2025-01-11 04:02:14.579439252,Upi,Shipped
+27,Henry,Williams,user26@example.com,Phone,3.0,1500.0,Hyderabad,Tamil Nadu,110001,2025-01-11 05:09:31.962616822,UPI,Returned
+28,Bob,Brown,,Tablet,1.0,2000.0,Hyd,Telangana,500001,2025-01-11 06:16:49.345794392,UPI,Cancelled
+29,Eve,Davis,,Phone,,1500.0,Hyd,Delhi,110001,2025-01-11 07:24:06.728971962,Upi,Returned
+30,Alice,Garcia,,Tablet,1.0,2000.0,Ahmedabad,Karnataka,380001,2025-01-11 08:31:24.112149532,Net Banking,Cancelled
+31,Grace,Davis,user30@example.com,Camera,2.0,2000.0,Mumbai,West Bengal,600001,2025-01-11 09:38:41.495327102,Upi,Cancelled
+32,Bob,Smith,user31@example.com,Laptop,2.0,30000.0,Hyd,Telangana,110001,2025-01-11 10:45:58.878504672,Net Banking,Cancelled
+33,Charlie,Davis,user32@example.com,Mouse,3.0,,Ahmedabad,Karnataka,500001,2025-01-11 11:53:16.261682242,UPI,Cancelled
+34,Bob,Brown,user33@example.com,Monitor,1.0,55000.0,,Tamil Nadu,560001,2025-01-11 13:00:33.644859813,Credit Card,Cancelled
+35,Eve,Smith,user34@example.com,Mouse,1.0,,Delhi,Karnataka,110001,2025-01-11 14:07:51.028037383,Cash on Delivery,Shipped
+36,Charlie,Davis,user35@example.com,Mouse,2.0,30000.0,Delhi,West Bengal,600001,2025-01-11 15:15:08.411214953,UPI,Delivered
+37,Grace,Brown,user36@example.com,Mouse,1.0,2000.0,Kolkata,Telangana,,2025-01-11 16:22:25.794392523,UPI,Pending
+38,Eve,Garcia,user37@example.com,Phone,2.0,2000.0,Chennai,Delhi,400001,2025-01-11 17:29:43.177570093,Credit card,Delivered
+39,Jane,Davis,user38@example.com,Tablet,1.0,2000.0,Ahmedabad,Gujarat,560001,2025-01-11 18:37:00.560747663,Credit card,Cancelled
+40,Alice,Brown,user39@example.com,Keyboard,3.0,,Ahmedabad,Tamil Nadu,600001,2025-01-11 19:44:17.943925233,Credit card,Shipped
+41,Grace,Williams,user40@example.com,Camera,,55000.0,Kolkata,Telangana,600001,2025-01-11 20:51:35.327102803,Cash on Delivery,Returned
+42,Jane,Rodriguez,user41@example.com,Watch,1.0,30000.0,Bang,West Bengal,380001,2025-01-11 21:58:52.710280373,,Shipped
+43,Henry,Williams,user42@example.com,Mouse,2.0,1500.0,,Tamil Nadu,,2025-01-11 23:06:10.093457943,Net Banking,Cancelled
+44,Grace,Rodriguez,user43@example.com,Headphones,,30000.0,Bangalore,Maharashtra,380001,2025-01-12 00:13:27.476635514,Upi,Shipped
+45,Henry,Johnson,user44@example.com,Phone,1.0,,Kolkata,Karnataka,600001,2025-01-12 01:20:44.859813084,Credit Card,Shipped
+46,Charlie,Johnson,user45@example.com,Monitor,,30000.0,Hyd,Gujarat,560001,2025-01-12 02:28:02.242990654,UPI,Cancelled
+47,Jane,Johnson,user46@example.com,Watch,,,Hyd,West Bengal,110001,2025-01-12 03:35:19.626168224,Net Banking,Shipped
+48,Alice,Garcia,user47@example.com,Keyboard,,55000.0,Mumbai,Maharashtra,110001,2025-01-12 04:42:37.009345794,,Pending
+49,Eve,Williams,user48@example.com,Headphones,2.0,1500.0,Kolkata,Telangana,560001,2025-01-12 05:49:54.392523364,Net Banking,Pending
+50,Frank,Rodriguez,user49@example.com,Keyboard,2.0,55000.0,Mumbai,Delhi,600001,2025-01-12 06:57:11.775700934,,Shipped
+51,Bob,Brown,user50@example.com,Watch,2.0,55000.0,Kolkata,Tamil Nadu,110001,2025-01-12 08:04:29.158878504,UPI,Returned
+52,John,Smith,user51@example.com,Mouse,2.0,30000.0,Ahmedabad,Karnataka,110001,2025-01-12 09:11:46.542056074,,Cancelled
+53,Alice,Brown,user52@example.com,Headphones,,2000.0,,Tamil Nadu,110001,2025-01-12 10:19:03.925233644,,Pending
+54,Jane,Smith,user53@example.com,Keyboard,3.0,2000.0,Ahmedabad,Gujarat,500001,2025-01-12 11:26:21.308411214,Cash on Delivery,Returned
+55,Frank,Jones,user54@example.com,Monitor,3.0,,Pune,Telangana,500001,2025-01-12 12:33:38.691588785,Upi,Shipped
+56,Alice,Brown,user55@example.com,Tablet,2.0,55000.0,Delhi,Tamil Nadu,400001,2025-01-12 13:40:56.074766355,Cash on Delivery,Returned
+57,Jane,Davis,user56@example.com,Laptop,,,Hyderabad,Karnataka,380001,2025-01-12 14:48:13.457943925,UPI,Delivered
+58,Diana,Davis,,Tablet,,55000.0,Kolkata,Telangana,560001,2025-01-12 15:55:30.841121495,,Pending
+59,Diana,Miller,user58@example.com,Watch,1.0,30000.0,Pune,Tamil Nadu,560001,2025-01-12 17:02:48.224299065,UPI,Shipped
+60,Henry,Williams,user59@example.com,Phone,2.0,,Delhi,Delhi,560001,2025-01-12 18:10:05.607476635,,Cancelled
+61,Alice,Smith,,Laptop,,2000.0,Chennai,West Bengal,400001,2025-01-12 19:17:22.990654205,Cash on Delivery,Shipped
+62,Diana,Smith,user61@example.com,Camera,3.0,,,Telangana,500001,2025-01-12 20:24:40.373831775,Upi,Cancelled
+63,Jane,Williams,,Monitor,1.0,2000.0,Mumbai,West Bengal,600001,2025-01-12 21:31:57.757009345,Upi,Shipped
+64,Henry,Garcia,user63@example.com,Camera,,55000.0,Mumbai,Telangana,600001,2025-01-12 22:39:15.140186915,Net Banking,Returned
+65,Jane,Miller,,Headphones,3.0,2000.0,Ahmedabad,Delhi,,2025-01-12 23:46:32.523364485,Net Banking,Returned
+66,Henry,Garcia,user65@example.com,Laptop,3.0,30000.0,Hyd,West Bengal,600001,2025-01-13 00:53:49.906542056,Net Banking,Returned
+67,Alice,Garcia,user66@example.com,Camera,3.0,,Delhi,Maharashtra,560001,2025-01-13 02:01:07.289719626,UPI,Delivered
+68,Frank,Garcia,user67@example.com,Camera,3.0,1500.0,Chennai,Karnataka,,2025-01-13 03:08:24.672897196,Upi,Cancelled
+69,Eve,Williams,user68@example.com,Keyboard,,2000.0,Pune,Maharashtra,110001,2025-01-13 04:15:42.056074766,Cash on Delivery,Returned
+70,Grace,Garcia,user69@example.com,Tablet,1.0,,Bangalore,Tamil Nadu,500001,2025-01-13 05:22:59.439252336,UPI,Delivered
+71,Frank,Davis,user70@example.com,Keyboard,,,Delhi,Delhi,,2025-01-13 06:30:16.822429906,,Cancelled
+72,Charlie,Johnson,user71@example.com,Laptop,2.0,55000.0,,Maharashtra,400001,2025-01-13 07:37:34.205607476,Net Banking,Shipped
+73,Jane,Jones,user72@example.com,Laptop,3.0,2000.0,Hyderabad,Telangana,500001,2025-01-13 08:44:51.588785046,UPI,Delivered
+74,Charlie,Smith,user73@example.com,Watch,3.0,,Kolkata,Tamil Nadu,560001,2025-01-13 09:52:08.971962616,UPI,Pending
+75,Frank,Smith,user74@example.com,Keyboard,3.0,1500.0,Mumbai,Tamil Nadu,600001,2025-01-13 10:59:26.355140186,Credit Card,Delivered
+76,Henry,Jones,user75@example.com,Speaker,2.0,,Pune,Maharashtra,560001,2025-01-13 12:06:43.738317757,Credit card,Delivered
+77,Grace,Williams,user76@example.com,Tablet,,1500.0,,Maharashtra,400001,2025-01-13 13:14:01.121495327,Upi,Cancelled
+78,Grace,Brown,user77@example.com,Laptop,2.0,2000.0,Pune,Delhi,560001,2025-01-13 14:21:18.504672897,Cash on Delivery,Shipped
+79,John,Williams,user78@example.com,Watch,2.0,2000.0,Ahmedabad,Karnataka,600001,2025-01-13 15:28:35.887850467,Credit card,Pending
+80,Grace,Smith,user79@example.com,Keyboard,2.0,,Hyd,Maharashtra,380001,2025-01-13 16:35:53.271028037,Net Banking,Returned
+81,Eve,Smith,user80@example.com,Tablet,,55000.0,Pune,Gujarat,400001,2025-01-13 17:43:10.654205607,,Returned
+82,Grace,Jones,,Keyboard,2.0,30000.0,Mumbai,Maharashtra,380001,2025-01-13 18:50:28.037383177,Credit Card,Delivered
+83,Frank,Garcia,user82@example.com,Camera,3.0,,Ahmedabad,West Bengal,110001,2025-01-13 19:57:45.420560747,,Cancelled
+84,John,Williams,user83@example.com,Watch,3.0,,Pune,Telangana,380001,2025-01-13 21:05:02.803738317,Upi,Cancelled
+85,Frank,Rodriguez,user84@example.com,Tablet,3.0,55000.0,Hyderabad,Gujarat,110001,2025-01-13 22:12:20.186915887,Credit card,Returned
+86,Frank,Jones,user85@example.com,Mouse,3.0,1500.0,Hyd,Gujarat,110001,2025-01-13 23:19:37.570093457,Upi,Pending
+87,Bob,Davis,user86@example.com,Headphones,2.0,55000.0,Pune,West Bengal,380001,2025-01-14 00:26:54.953271028,UPI,Shipped
+88,John,Smith,user87@example.com,Headphones,,30000.0,Ahmedabad,West Bengal,400001,2025-01-14 01:34:12.336448598,Upi,Pending
+89,Frank,Jones,user88@example.com,Tablet,2.0,1500.0,Delhi,Tamil Nadu,600001,2025-01-14 02:41:29.719626168,Cash on Delivery,Shipped
+90,Bob,Williams,user89@example.com,Keyboard,1.0,,Bang,Karnataka,,2025-01-14 03:48:47.102803738,Credit Card,Returned
+91,Bob,Smith,user90@example.com,Watch,3.0,2000.0,Chennai,Telangana,560001,2025-01-14 04:56:04.485981308,Credit Card,Shipped
+92,John,Brown,user91@example.com,Headphones,2.0,55000.0,Bang,Delhi,,2025-01-14 06:03:21.869158878,Net Banking,Cancelled
+93,Charlie,Jones,,Watch,3.0,2000.0,Bang,Gujarat,110001,2025-01-14 07:10:39.252336448,Net Banking,Delivered
+94,Henry,Miller,user93@example.com,Headphones,2.0,1500.0,Bangalore,Delhi,110001,2025-01-14 08:17:56.635514018,UPI,Delivered
+95,Eve,Smith,user94@example.com,Camera,3.0,2000.0,,Maharashtra,400001,2025-01-14 09:25:14.018691588,Cash on Delivery,Returned
+96,Henry,Williams,user95@example.com,Keyboard,1.0,30000.0,,Maharashtra,500001,2025-01-14 10:32:31.401869158,Credit card,Cancelled
+97,Grace,Johnson,user96@example.com,Camera,,30000.0,Kolkata,Delhi,380001,2025-01-14 11:39:48.785046728,Upi,Pending
+98,Eve,Rodriguez,user97@example.com,Headphones,1.0,,Pune,Maharashtra,110001,2025-01-14 12:47:06.168224299,UPI,Cancelled
+99,Grace,Martinez,user98@example.com,Mouse,,,,Karnataka,560001,2025-01-14 13:54:23.551401869,Net Banking,Delivered
+100,Frank,Garcia,user99@example.com,Mouse,1.0,30000.0,Hyd,West Bengal, ,2025-01-14 15:01:40.934579439,,Delivered
+101,Jane,Martinez,user100@example.com,Camera,2.0,30000.0,,Maharashtra,380001,2025-01-14 16:08:58.317757009,Net Banking,Cancelled
+102,John,Williams,user101@example.com,Mouse,1.0,1500.0,Mumbai,Tamil Nadu,400001,2025-01-14 17:16:15.700934579,Upi,Cancelled
+103,Eve,Davis,user102@example.com,Headphones,,2000.0,Kolkata,Maharashtra,,2025-01-14 18:23:33.084112149,Credit card,Delivered
+104,Eve,Davis,user103@example.com,Tablet,2.0,2000.0,Bangalore,Telangana,380001,2025-01-14 19:30:50.467289719,UPI,Pending
+105,Frank,Johnson,user104@example.com,Camera,2.0,55000.0,Bangalore,Karnataka,600001,2025-01-14 20:38:07.850467289,Upi,Returned
+106,Charlie,Garcia,user105@example.com,Phone,1.0,,Delhi,Telangana,110001,2025-01-14 21:45:25.233644859,Cash on Delivery,Returned
+107,Bob,Miller,user106@example.com,Keyboard,2.0,1500.0,Ahmedabad,Telangana,400001,2025-01-14 22:52:42.616822429,Credit Card,Cancelled
+108,Frank,Johnson,user107@example.com,Mouse,1.0,30000.0,Bang,Tamil Nadu,400001,2025-01-15 00:00:00.000000000,Cash on Delivery,Returned
+109,Diana,Martinez,user108@example.com,Mouse,,2000.0,Mumbai,Karnataka,600001,2025-01-15 01:07:17.383177570,Cash on Delivery,Delivered
+110,Bob,Johnson,user109@example.com,Laptop,3.0,55000.0,Bangalore,Karnataka,560001,2025-01-15 02:14:34.766355140,Credit Card,Delivered
+111,John,Martinez,user110@example.com,Speaker,,2000.0,Chennai,Karnataka,,2025-01-15 03:21:52.149532710,Cash on Delivery,Cancelled
+112,Bob,Smith,user111@example.com,Camera,3.0,1500.0,,Karnataka,110001,2025-01-15 04:29:09.532710280,Upi,Cancelled
+113,Charlie,Davis,user112@example.com,Monitor,3.0,55000.0,Hyd,Karnataka,110001,2025-01-15 05:36:26.915887850,Upi,Cancelled
+114,Bob,Smith,user113@example.com,Mouse,3.0,2000.0,Pune,Tamil Nadu,500001,2025-01-15 06:43:44.299065420,,Pending
+115,John,Rodriguez,user114@example.com,Keyboard,1.0,55000.0,Bangalore,Maharashtra,600001,2025-01-15 07:51:01.682242990,Credit Card,Returned
+116,Charlie,Garcia,user115@example.com,Phone,3.0,,Hyd,Telangana,560001,2025-01-15 08:58:19.065420560,,Cancelled
+117,Henry,Miller,user116@example.com,Mouse,3.0,30000.0,Delhi,Karnataka,380001,2025-01-15 10:05:36.448598130,Credit Card,Shipped
+118,Eve,Martinez,user117@example.com,Phone,3.0,1500.0,Delhi,Gujarat,400001,2025-01-15 11:12:53.831775700,Upi,Shipped
+119,Eve,Miller,user118@example.com,Headphones,,1500.0,Kolkata,Maharashtra,110001,2025-01-15 12:20:11.214953271,Cash on Delivery,Delivered
+120,Grace,Martinez,user119@example.com,Headphones,,1500.0,Bangalore,Maharashtra,400001,2025-01-15 13:27:28.598130841,Cash on Delivery,Returned
+121,Henry,Williams,user120@example.com,Speaker,1.0,1500.0,Chennai,Telangana,400001,2025-01-15 14:34:45.981308411,,Cancelled
+122,Henry,Johnson,user121@example.com,Tablet,3.0,30000.0,Bangalore,Tamil Nadu,500001,2025-01-15 15:42:03.364485981,Net Banking,Shipped
+123,Bob,Rodriguez,user122@example.com,Monitor,3.0,30000.0,Chennai,Delhi,560001,2025-01-15 16:49:20.747663551,Credit card,Returned
+124,Eve,Davis,user123@example.com,Laptop,3.0,55000.0,Hyderabad,Delhi,110001,2025-01-15 17:56:38.130841121,UPI,Delivered
+125,John,Martinez,user124@example.com,Speaker,1.0,2000.0,Kolkata,Maharashtra,400001,2025-01-15 19:03:55.514018691,,Pending
+126,Alice,Miller,user125@example.com,Watch,,30000.0,Hyderabad,West Bengal,110001,2025-01-15 20:11:12.897196261,Credit Card,Returned
+127,Alice,Rodriguez,user126@example.com,Laptop,1.0,30000.0,Bangalore,West Bengal,,2025-01-15 21:18:30.280373831,Net Banking,Returned
+128,Charlie,Brown,user127@example.com,Camera,2.0,2000.0,Kolkata,Telangana,500001,2025-01-15 22:25:47.663551401,,Pending
+129,Eve,Brown,user128@example.com,Keyboard,3.0,30000.0,Hyderabad,Delhi,380001,2025-01-15 23:33:05.046728971,Cash on Delivery,Returned
+130,Eve,Smith,,Watch,3.0,1500.0,Bang,Maharashtra,110001,2025-01-16 00:40:22.429906542,Credit card,Delivered
+131,Alice,Davis,user130@example.com,Watch,1.0,1500.0,,Tamil Nadu,110001,2025-01-16 01:47:39.813084112,Cash on Delivery,Delivered
+132,Eve,Williams,user131@example.com,Speaker,1.0,2000.0,Hyderabad,Delhi,560001,2025-01-16 02:54:57.196261682,Cash on Delivery,Pending
+133,Bob,Miller,user132@example.com,Tablet,2.0,55000.0,Bang,Maharashtra,400001,2025-01-16 04:02:14.579439252,,Cancelled
+134,Diana,Johnson,user133@example.com,Speaker,2.0,,,Maharashtra,400001,2025-01-16 05:09:31.962616822,Net Banking,Shipped
+135,Jane,Johnson,user134@example.com,Camera,1.0,2000.0,Delhi,Karnataka,380001,2025-01-16 06:16:49.345794392,Credit Card,Cancelled
+136,Henry,Miller,user135@example.com,Mouse,2.0,2000.0,Bangalore,Tamil Nadu,500001,2025-01-16 07:24:06.728971962,Credit Card,Returned
+137,Grace,Garcia,user136@example.com,Mouse,1.0,1500.0,Bang,Karnataka,600001,2025-01-16 08:31:24.112149532,,Shipped
+138,Charlie,Williams,,Tablet,2.0,55000.0,Delhi,Telangana,,2025-01-16 09:38:41.495327102,Cash on Delivery,Pending
+139,Diana,Rodriguez,user138@example.com,Camera,,30000.0,Hyderabad,Karnataka,560001,2025-01-16 10:45:58.878504672,Credit Card,Pending
+140,Alice,Martinez,user139@example.com,Tablet,1.0,1500.0,Hyd,Gujarat,380001,2025-01-16 11:53:16.261682242,,Shipped
+141,Henry,Garcia,user140@example.com,Phone,1.0,2000.0,Bangalore,Karnataka,380001,2025-01-16 13:00:33.644859813,Cash on Delivery,Delivered
+142,Eve,Martinez,user141@example.com,Mouse,2.0,,Kolkata,Gujarat,600001,2025-01-16 14:07:51.028037383,UPI,Shipped
+143,Grace,Martinez,user142@example.com,Watch,2.0,30000.0,Chennai,Delhi,560001,2025-01-16 15:15:08.411214953,Credit Card,Returned
+144,Eve,Garcia,user143@example.com,Monitor,2.0,30000.0,Chennai,West Bengal,500001,2025-01-16 16:22:25.794392523,Credit Card,Delivered
+145,John,Smith,user144@example.com,Keyboard,1.0,1500.0,Hyderabad,Maharashtra,560001,2025-01-16 17:29:43.177570093,Upi,Pending
+146,John,Brown,user145@example.com,Camera,2.0,55000.0,Ahmedabad,Gujarat,500001,2025-01-16 18:37:00.560747663,Credit Card,Shipped
+147,Grace,Martinez,,Laptop,2.0,55000.0,Ahmedabad,Tamil Nadu,560001,2025-01-16 19:44:17.943925233,,Cancelled
+148,Grace,Garcia,user147@example.com,Tablet,1.0,2000.0,Hyderabad,Karnataka,560001,2025-01-16 20:51:35.327102803,Cash on Delivery,Cancelled
+149,Alice,Garcia,,Keyboard,3.0,55000.0,Bang,Gujarat,110001,2025-01-16 21:58:52.710280373,Cash on Delivery,Returned
+150,Grace,Jones,user149@example.com,Laptop,1.0,,Bangalore,Tamil Nadu,380001,2025-01-16 23:06:10.093457943,Upi,Cancelled
+151,Bob,Smith,user150@example.com,Keyboard,2.0,1500.0,Chennai,West Bengal,560001,2025-01-17 00:13:27.476635514,,Shipped
+152,Eve,Davis,user151@example.com,Monitor,1.0,55000.0,Chennai,West Bengal,600001,2025-01-17 01:20:44.859813084,Credit Card,Shipped
+153,Diana,Jones,user152@example.com,Laptop,3.0,30000.0,Bang,Karnataka,560001,2025-01-17 02:28:02.242990654,Credit card,Cancelled
+154,Frank,Jones,user153@example.com,Speaker,1.0,1500.0,,Telangana,400001,2025-01-17 03:35:19.626168224,Credit card,Shipped
+155,Grace,Miller,user154@example.com,Headphones,2.0,1500.0,Kolkata,Karnataka,380001,2025-01-17 04:42:37.009345794,Upi,Returned
+156,Charlie,Brown,user155@example.com,Speaker,3.0,2000.0,Bangalore,Delhi,400001,2025-01-17 05:49:54.392523364,Credit Card,Delivered
+157,John,Garcia,user156@example.com,Mouse,,55000.0,Pune,Gujarat,380001,2025-01-17 06:57:11.775700934,Credit card,Returned
+158,Bob,Brown,user157@example.com,Headphones,3.0,2000.0,Chennai,Maharashtra,400001,2025-01-17 08:04:29.158878504,Credit Card,Returned
+159,Henry,Williams,user158@example.com,Speaker,,30000.0,Hyderabad,Telangana,560001,2025-01-17 09:11:46.542056074,,Shipped
+160,Frank,Miller,user159@example.com,Headphones,1.0,1500.0,Kolkata,Karnataka,560001,2025-01-17 10:19:03.925233644,Credit Card,Delivered
+161,Diana,Davis,user160@example.com,Headphones,1.0,1500.0,Chennai,Tamil Nadu,110001,2025-01-17 11:26:21.308411214,,Shipped
+162,Frank,Brown,user161@example.com,Watch,,1500.0,Kolkata,Telangana,600001,2025-01-17 12:33:38.691588785,Cash on Delivery,Pending
+163,Grace,Johnson,user162@example.com,Tablet,1.0,30000.0,Delhi,Gujarat,400001,2025-01-17 13:40:56.074766355,Credit Card,Shipped
+164,Alice,Martinez,user163@example.com,Tablet,1.0,,Pune,Telangana,500001,2025-01-17 14:48:13.457943925,Net Banking,Shipped
+165,John,Williams,user164@example.com,Watch,3.0,2000.0,Mumbai,Gujarat,110001,2025-01-17 15:55:30.841121495,Upi,Shipped
+166,John,Smith,user165@example.com,Keyboard,1.0,2000.0,,Karnataka,400001,2025-01-17 17:02:48.224299065,Credit card,Delivered
+167,Henry,Davis,,Phone,3.0,,,Gujarat,,2025-01-17 18:10:05.607476635,Cash on Delivery,Shipped
+168,Alice,Williams,user167@example.com,Keyboard,3.0,,Bangalore,Telangana,110001,2025-01-17 19:17:22.990654205,Credit card,Delivered
+169,Eve,Martinez,user168@example.com,Laptop,3.0,1500.0,Kolkata,Tamil Nadu, ,2025-01-17 20:24:40.373831775,Cash on Delivery,Cancelled
+170,Jane,Miller,user169@example.com,Laptop,,1500.0,Bang,West Bengal,400001,2025-01-17 21:31:57.757009345,Credit card,Pending
+171,Bob,Martinez,user170@example.com,Headphones,,,Hyderabad,Telangana,560001,2025-01-17 22:39:15.140186915,Cash on Delivery,Delivered
+172,John,Jones,user171@example.com,Speaker,2.0,1500.0,Kolkata,Gujarat,110001,2025-01-17 23:46:32.523364486,Credit card,Cancelled
+173,Charlie,Martinez,user172@example.com,Speaker,3.0,2000.0,Kolkata,West Bengal,560001,2025-01-18 00:53:49.906542056,Credit card,Delivered
+174,John,Jones,user173@example.com,Tablet,2.0,55000.0,Hyd,Gujarat,,2025-01-18 02:01:07.289719626,,Delivered
+175,Frank,Miller,user174@example.com,Camera,,,Hyd,Tamil Nadu,500001,2025-01-18 03:08:24.672897196,Credit card,Pending
+176,John,Rodriguez,user175@example.com,Keyboard,1.0,30000.0,Mumbai,Gujarat,400001,2025-01-18 04:15:42.056074766,Upi,Returned
+177,John,Jones,user176@example.com,Mouse,,55000.0,,Karnataka,600001,2025-01-18 05:22:59.439252336,Credit Card,Returned
+178,Jane,Smith,user177@example.com,Monitor,2.0,2000.0,Mumbai,Maharashtra,500001,2025-01-18 06:30:16.822429906,UPI,Delivered
+179,Jane,Martinez,user178@example.com,Speaker,,55000.0,,Telangana,560001,2025-01-18 07:37:34.205607476,Net Banking,Shipped
+180,Diana,Martinez,user179@example.com,Monitor,3.0,30000.0,Bang,Maharashtra,400001,2025-01-18 08:44:51.588785046,UPI,Cancelled
+181,Eve,Smith,user180@example.com,Headphones,3.0,1500.0,Chennai,Gujarat,560001,2025-01-18 09:52:08.971962616,,Shipped
+182,Charlie,Johnson,,Monitor,,2000.0,,Tamil Nadu,380001,2025-01-18 10:59:26.355140186,Cash on Delivery,Shipped
+183,John,Garcia,user182@example.com,Mouse,3.0,,Chennai,Telangana,110001,2025-01-18 12:06:43.738317757,Credit Card,Delivered
+184,John,Rodriguez,user183@example.com,Watch,3.0,,Bangalore,Gujarat,400001,2025-01-18 13:14:01.121495327,Cash on Delivery,Delivered
+185,Bob,Davis,,Mouse,,,Chennai,West Bengal,380001,2025-01-18 14:21:18.504672897,Credit Card,Delivered
+186,Jane,Jones,user185@example.com,Monitor,3.0,30000.0,Mumbai,Delhi,380001,2025-01-18 15:28:35.887850467,,Delivered
+187,Charlie,Smith,user186@example.com,Mouse,3.0,1500.0,Hyderabad,Gujarat,400001,2025-01-18 16:35:53.271028037,Credit card,Returned
+188,Henry,Miller,user187@example.com,Phone,,1500.0,Hyderabad,Maharashtra,560001,2025-01-18 17:43:10.654205607,Upi,Delivered
+189,Diana,Jones,user188@example.com,Headphones,2.0,1500.0,Hyd,Telangana,600001,2025-01-18 18:50:28.037383177,Credit card,Returned
+190,Eve,Garcia,user189@example.com,Keyboard,2.0,1500.0,Bang,Maharashtra,380001,2025-01-18 19:57:45.420560747,Upi,Returned
+191,Alice,Miller,user190@example.com,Watch,,30000.0,Bang,Telangana,500001,2025-01-18 21:05:02.803738317,Cash on Delivery,Delivered
+192,Eve,Williams,user191@example.com,Speaker,3.0,30000.0,Bangalore,Gujarat,,2025-01-18 22:12:20.186915887,,Pending
+193,Frank,Martinez,user192@example.com,Laptop,,2000.0,Mumbai,Karnataka,600001,2025-01-18 23:19:37.570093457,Cash on Delivery,Cancelled
+194,John,Williams,user193@example.com,Keyboard,3.0,,Hyd,West Bengal,560001,2025-01-19 00:26:54.953271028,UPI,Shipped
+195,Diana,Jones,user194@example.com,Laptop,1.0,1500.0,Ahmedabad,Gujarat,,2025-01-19 01:34:12.336448598,UPI,Returned
+196,Frank,Garcia,user195@example.com,Headphones,3.0,55000.0,Bang,Maharashtra,500001,2025-01-19 02:41:29.719626168,Upi,Cancelled
+197,Charlie,Rodriguez,user196@example.com,Watch,1.0,55000.0,Hyderabad,Delhi,380001,2025-01-19 03:48:47.102803738,Upi,Pending
+198,Alice,Jones,user197@example.com,Tablet,2.0,30000.0,Chennai,Delhi,560001,2025-01-19 04:56:04.485981308,Cash on Delivery,Shipped
+199,Jane,Smith,user198@example.com,Speaker,3.0,30000.0,Chennai,Tamil Nadu,600001,2025-01-19 06:03:21.869158878,Credit card,Shipped
+200,Diana,Brown,user199@example.com,Phone,1.0,30000.0,Hyd,Telangana,400001,2025-01-19 07:10:39.252336448,Cash on Delivery,Returned
+201,Diana,Jones,user200@example.com,Tablet,1.0,2000.0,Mumbai,Maharashtra,110001,2025-01-19 08:17:56.635514018,,Delivered
+202,John,Martinez,user201@example.com,Headphones,3.0,,Mumbai,Tamil Nadu,110001,2025-01-19 09:25:14.018691588,UPI,Pending
+203,Grace,Martinez,user202@example.com,Keyboard,2.0,,Delhi,Maharashtra,110001,2025-01-19 10:32:31.401869158,Credit Card,Returned
+204,Diana,Jones,user203@example.com,Phone,2.0,30000.0,Pune,Telangana,380001,2025-01-19 11:39:48.785046728,Upi,Pending
+205,Bob,Miller,user204@example.com,Mouse,2.0,30000.0,Bang,Gujarat,500001,2025-01-19 12:47:06.168224299,Credit card,Delivered
+206,Alice,Brown,user205@example.com,Monitor,,55000.0,Mumbai,Gujarat,560001,2025-01-19 13:54:23.551401869,,Delivered
+207,Alice,Smith,,Phone,1.0,2000.0,Hyderabad,Delhi,400001,2025-01-19 15:01:40.934579439,UPI,Returned
+208,Bob,Jones,user207@example.com,Headphones,1.0,55000.0,Hyd,Gujarat,,2025-01-19 16:08:58.317757009,Credit card,Delivered
+209,Henry,Miller,user208@example.com,Camera,1.0,,Ahmedabad,Gujarat,400001,2025-01-19 17:16:15.700934579,,Cancelled
+210,Bob,Martinez,user209@example.com,Monitor,2.0,30000.0,Delhi,Karnataka,600001,2025-01-19 18:23:33.084112149,Upi,Shipped
+211,Bob,Martinez,user210@example.com,Laptop,3.0,30000.0,Kolkata,Delhi,380001,2025-01-19 19:30:50.467289719,Upi,Returned
+212,Alice,Garcia,user211@example.com,Speaker,1.0,,Bangalore,Tamil Nadu,110001,2025-01-19 20:38:07.850467289,Net Banking,Pending
+213,Eve,Jones,user212@example.com,Laptop,1.0,,Ahmedabad,West Bengal,380001,2025-01-19 21:45:25.233644859,Credit Card,Cancelled
+214,Alice,Brown,user213@example.com,Phone,2.0,55000.0,Kolkata,Karnataka,500001,2025-01-19 22:52:42.616822429,,Returned
+215,Grace,Johnson,user214@example.com,Laptop,3.0,2000.0,Chennai,Tamil Nadu,,2025-01-20 00:00:00.000000000,UPI,Delivered
+110,Bob,Johnson,user109@example.com,Laptop,3.0,55000.0,Bangalore,Karnataka,560001,2025-01-15 02:14:34.766355140,Credit Card,Delivered
+34,Bob,Brown,user33@example.com,Monitor,1.0,55000.0,,Tamil Nadu,560001,2025-01-11 13:00:33.644859813,Credit Card,Cancelled
+163,Grace,Johnson,user162@example.com,Tablet,1.0,30000.0,Delhi,Gujarat,400001,2025-01-17 13:40:56.074766355,Credit Card,Shipped
+207,Alice,Smith,,Phone,1.0,2000.0,Hyderabad,Delhi,400001,2025-01-19 15:01:40.934579439,UPI,Returned
+89,Frank,Jones,user88@example.com,Tablet,2.0,1500.0,Delhi,Tamil Nadu,600001,2025-01-14 02:41:29.719626168,Cash on Delivery,Shipped
+144,Eve,Garcia,user143@example.com,Monitor,2.0,30000.0,Chennai,West Bengal,500001,2025-01-16 16:22:25.794392523,Credit Card,Delivered
+66,Henry,Garcia,user65@example.com,Laptop,3.0,30000.0,Hyd,West Bengal,600001,2025-01-13 00:53:49.906542056,Net Banking,Returned
+71,Frank,Davis,user70@example.com,Keyboard,,,Delhi,Delhi,,2025-01-13 06:30:16.822429906,,Cancelled
+95,Eve,Smith,user94@example.com,Camera,3.0,2000.0,,Maharashtra,400001,2025-01-14 09:25:14.018691588,Cash on Delivery,Returned
+130,Eve,Smith,,Watch,3.0,1500.0,Bang,Maharashtra,110001,2025-01-16 00:40:22.429906542,Credit card,Delivered
+93,Charlie,Jones,,Watch,3.0,2000.0,Bang,Gujarat,110001,2025-01-14 07:10:39.252336448,Net Banking,Delivered
+116,Charlie,Garcia,user115@example.com,Phone,3.0,,Hyd,Telangana,560001,2025-01-15 08:58:19.065420560,,Cancelled
+195,Diana,Jones,user194@example.com,Laptop,1.0,1500.0,Ahmedabad,Gujarat,,2025-01-19 01:34:12.336448598,UPI,Returned

@@ -1,0 +1,11 @@
+temperature,humidity,city,salary
+25.4,65,Hyderabad,30000
+26.1,68,Hyderabad,32000
+25.8,67,Visakhapatnam,31000
+-9999,66,Hyderabad,30500
+26.4,65,Unknown,31500
+25.9,9999,Hyderabad,32500
+-9999,64,N/A,33000
+26.2,63,Hyderabad,34000
+25.7,62,Hyderabad,35000
+26.0,61,Hyderabad,36000
